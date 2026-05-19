@@ -11,4 +11,4 @@ Link: https://lnkd.in/gXPhD_Kj
 • Contact & social links integration 🔗
 
 Tech Stack Used:
-💻 HTML | CSS | JavaScrip
+💻 HTML | CSS | JavaScript
