@@ -1,14 +1,14 @@
+Built a modern and fully responsive landing page using HTML & CSS 🚀
 
-I designed and developed my personal portfolio website to showcase my projects, skills, and journey as a developer. This project helped me improve my frontend development skills and focus on creating a clean, responsive, and modern user experience.
+✨ Features included:
+• Responsive Navbar with Mobile Menu Toggle
+• Smooth Hover Effects & Transitions
+• Clean Hero Section
+• Interactive Feature Cards with Icons
+• Modern UI Design with Responsive Layout
+• Optimized for Desktop & Mobile Devices
 
-Link: https://lnkd.in/gXPhD_Kj
+This project helped me improve my frontend development skills and understand how to create clean, user-friendly web interfaces with responsive design principles.
 
-🔹 Features:
-• Responsive design for all devices 📱💻
-• Smooth animations & transitions ✨
-• Interactive UI with modern styling 🎨
-• Project showcase section 📂
-• Contact & social links integration 🔗
-
-Tech Stack Used:
-💻 HTML | CSS | JavaScript
+Tech Used:
+HTML • CSS • Font Awesome
